@@ -27,71 +27,71 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_20 = function() {
+(lib.CachedBmp_10 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_19 = function() {
+(lib.CachedBmp_9 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_18 = function() {
+(lib.CachedBmp_8 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_17 = function() {
+(lib.CachedBmp_7 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_16 = function() {
+(lib.CachedBmp_6 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_15 = function() {
+(lib.CachedBmp_5 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_14 = function() {
+(lib.CachedBmp_4 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_13 = function() {
+(lib.CachedBmp_3 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_12 = function() {
+(lib.CachedBmp_2 = function() {
 	this.initialize(ss["kls3_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_11 = function() {
-	this.initialize(img.CachedBmp_11);
+(lib.CachedBmp_1 = function() {
+	this.initialize(img.CachedBmp_1);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2923,319);
 
@@ -165,7 +165,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_3
-	this.instance = new lib.CachedBmp_20();
+	this.instance = new lib.CachedBmp_10();
 	this.instance.setTransform(-78.15,-29.8,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(3));
@@ -301,7 +301,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).to({state:[{t:this.shape_4},{t:this.shape_1},{t:this.shape_3}]},1).to({state:[{t:this.shape_6},{t:this.shape_1},{t:this.shape_5}]},1).to({state:[{t:this.shape_8},{t:this.shape_1},{t:this.shape_7}]},1).to({state:[{t:this.shape_10},{t:this.shape_1},{t:this.shape_9}]},1).to({state:[{t:this.shape_12},{t:this.shape_1},{t:this.shape_11}]},1).to({state:[{t:this.shape_14},{t:this.shape_1},{t:this.shape_13}]},1).to({state:[{t:this.shape_16},{t:this.shape_1},{t:this.shape_15}]},1).to({state:[{t:this.shape_18},{t:this.shape_1},{t:this.shape_17}]},1).to({state:[{t:this.shape_20},{t:this.shape_1},{t:this.shape_19}]},1).to({state:[{t:this.shape_22},{t:this.shape_1},{t:this.shape_21}]},1).to({state:[{t:this.shape_24},{t:this.shape_1},{t:this.shape_23}]},1).to({state:[{t:this.shape_26},{t:this.shape_1},{t:this.shape_25}]},1).wait(1));
 
 	// Layer_2
-	this.instance = new lib.CachedBmp_19();
+	this.instance = new lib.CachedBmp_9();
 	this.instance.setTransform(-38.75,-44.6,0.3549,0.3549);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(13));
@@ -415,25 +415,25 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_3
-	this.instance = new lib.CachedBmp_13();
+	this.instance = new lib.CachedBmp_3();
 	this.instance.setTransform(-137.55,50.15,0.3125,0.3125);
 
-	this.instance_1 = new lib.CachedBmp_12();
+	this.instance_1 = new lib.CachedBmp_2();
 	this.instance_1.setTransform(-39.15,-70.2,0.3125,0.3125);
 
-	this.instance_2 = new lib.CachedBmp_15();
+	this.instance_2 = new lib.CachedBmp_5();
 	this.instance_2.setTransform(-141.15,49.25,0.3125,0.3125);
 
-	this.instance_3 = new lib.CachedBmp_14();
+	this.instance_3 = new lib.CachedBmp_4();
 	this.instance_3.setTransform(-39.15,-70.2,0.3125,0.3125);
 
-	this.instance_4 = new lib.CachedBmp_16();
+	this.instance_4 = new lib.CachedBmp_6();
 	this.instance_4.setTransform(-92.05,58.3,0.3125,0.3125);
 
 	this.instance_5 = new lib.waktuhabis();
 	this.instance_5.setTransform(-151,-73,0.8287,0.8505);
 
-	this.instance_6 = new lib.CachedBmp_17();
+	this.instance_6 = new lib.CachedBmp_7();
 	this.instance_6.setTransform(-63.55,52,0.3125,0.3125);
 
 	this.instance_7 = new lib.selesai();
@@ -453,7 +453,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_1},{t:this.shape}]},1).wait(4));
 
 	// Layer_1
-	this.instance_8 = new lib.CachedBmp_18();
+	this.instance_8 = new lib.CachedBmp_8();
 	this.instance_8.setTransform(-93.3,-33,0.3125,0.3125);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({_off:true},1).wait(4));
@@ -674,10 +674,10 @@ if (reversed == null) { reversed = false; }
 					["Sama-sama", "不客气 bú kè qi", "谢谢 xiè xie", "对不起 duì bu qǐ", "没关系 méi ɡuān xi"],
 					["Maaf", "对不起 duì bu qǐ", "谢谢 xiè xie", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
 					["Tidak apa-apa", "没关系 méi ɡuān xi", "谢谢 xiè xie", "不客气 bú kè qi", "对不起 duì bu qǐ"],
-					["小华 ：你好！nǐ hǎo                     小强 ：.......", "你好 nǐ hǎo", "再见 zài jiàn", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
-					["小华 ：再见！zài jiàn                   小强 ：.......", "再见 zài jiàn", "你好 nǐ hǎo", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
-					["小华 ：谢谢 xiè xie                     小强 ：.......", "不客气 bú kè qi", "你好 nǐ hǎo", "再见 zài jiàn", "没关系 méi ɡuān xi"],
-					["小华 ：对不起 duì bu qǐ                 小强 ：.......", "没关系 méi ɡuān xi", "你好 nǐ hǎo", "对不起 duì bu qǐ", "不客气 bú kè qi"],
+					["小华 ：你好！nǐ hǎo                         小强 ：.......", "你好 nǐ hǎo", "再见 zài jiàn", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
+					["小华 ：再见！zài jiàn                       小强 ：.......", "再见 zài jiàn", "你好 nǐ hǎo", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
+					["小华 ：谢谢 xiè xie                         小强 ：.......", "不客气 bú kè qi", "你好 nǐ hǎo", "再见 zài jiàn", "没关系 méi ɡuān xi"],
+					["小华 ：对不起 duì bu qǐ                     小强 ：.......", "没关系 méi ɡuān xi", "你好 nǐ hǎo", "对不起 duì bu qǐ", "不客气 bú kè qi"],
 					["Baik", "好 hǎo", "不 bù", "你 nǐ", "请 qǐnɡ"]];
 					
 		var ob = this;
@@ -715,7 +715,7 @@ if (reversed == null) { reversed = false; }
 	this.mulaiBtn.setTransform(732.4,524,1.5,1.5);
 	new cjs.ButtonHelper(this.mulaiBtn, 0, 1, 2);
 
-	this.instance = new lib.CachedBmp_11();
+	this.instance = new lib.CachedBmp_1();
 	this.instance.setTransform(-10.05,221.3,0.5,0.5);
 
 	this.timerKuis = new lib.timerMC2();
@@ -753,13 +753,13 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_11.png?1754205996388", id:"CachedBmp_11"},
-		{src:"images/IMG_20250430_101050.jpg?1754205996388", id:"IMG_20250430_101050"},
-		{src:"images/kls3_atlas_1.png?1754205996295", id:"kls3_atlas_1"},
-		{src:"sounds/dui.mp3?1754205996388", id:"dui"},
-		{src:"sounds/cuo.mp3?1754205996388", id:"cuo"},
-		{src:"sounds/wan.mp3?1754205996388", id:"wan"},
-		{src:"sounds/dao.mp3?1754205996388", id:"dao"}
+		{src:"images/CachedBmp_1.png?1754267142971", id:"CachedBmp_1"},
+		{src:"images/IMG_20250430_101050.jpg?1754267142971", id:"IMG_20250430_101050"},
+		{src:"images/kls3_atlas_1.png?1754267142891", id:"kls3_atlas_1"},
+		{src:"sounds/dui.mp3?1754267142971", id:"dui"},
+		{src:"sounds/cuo.mp3?1754267142971", id:"cuo"},
+		{src:"sounds/wan.mp3?1754267142971", id:"wan"},
+		{src:"sounds/dao.mp3?1754267142971", id:"dao"}
 	],
 	preloads: []
 };
