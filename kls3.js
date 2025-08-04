@@ -674,9 +674,9 @@ if (reversed == null) { reversed = false; }
 					["Sama-sama", "不客气 bú kè qi", "谢谢 xiè xie", "对不起 duì bu qǐ", "没关系 méi ɡuān xi"],
 					["Maaf", "对不起 duì bu qǐ", "谢谢 xiè xie", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
 					["Tidak apa-apa", "没关系 méi ɡuān xi", "谢谢 xiè xie", "不客气 bú kè qi", "对不起 duì bu qǐ"],
-					["小华 ：你好！nǐ hǎo                               小强 ：.......", "你好 nǐ hǎo", "再见 zài jiàn", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
-					["小华 ：再见！zài jiàn                             小强 ：.......", "再见 zài jiàn", "你好 nǐ hǎo", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
-					["小华 ：谢谢 xiè xie                               小强 ：.......", "不客气 bú kè qi", "你好 nǐ hǎo", "再见 zài jiàn", "没关系 méi ɡuān xi"],
+					["小华 ：你好！nǐ hǎo                                    小强 ：.......", "你好 nǐ hǎo", "再见 zài jiàn", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
+					["小华 ：再见！zài jiàn                                  小强 ：.......", "再见 zài jiàn", "你好 nǐ hǎo", "不客气 bú kè qi", "没关系 méi ɡuān xi"],
+					["小华 ：谢谢 xiè xie                                    小强 ：.......", "不客气 bú kè qi", "你好 nǐ hǎo", "再见 zài jiàn", "没关系 méi ɡuān xi"],
 					["小华 ：对不起 duì bu qǐ                           小强 ：.......", "没关系 méi ɡuān xi", "你好 nǐ hǎo", "对不起 duì bu qǐ", "不客气 bú kè qi"],
 					["Baik", "好 hǎo", "不 bù", "你 nǐ", "请 qǐnɡ"]];
 					
@@ -753,13 +753,13 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_1.png?1754267479969", id:"CachedBmp_1"},
-		{src:"images/IMG_20250430_101050.jpg?1754267479969", id:"IMG_20250430_101050"},
-		{src:"images/kls3_atlas_1.png?1754267479874", id:"kls3_atlas_1"},
-		{src:"sounds/dui.mp3?1754267479969", id:"dui"},
-		{src:"sounds/cuo.mp3?1754267479969", id:"cuo"},
-		{src:"sounds/wan.mp3?1754267479969", id:"wan"},
-		{src:"sounds/dao.mp3?1754267479969", id:"dao"}
+		{src:"images/CachedBmp_1.png?1754269521298", id:"CachedBmp_1"},
+		{src:"images/IMG_20250430_101050.jpg?1754269521298", id:"IMG_20250430_101050"},
+		{src:"images/kls3_atlas_1.png?1754269521200", id:"kls3_atlas_1"},
+		{src:"sounds/dui.mp3?1754269521298", id:"dui"},
+		{src:"sounds/cuo.mp3?1754269521298", id:"cuo"},
+		{src:"sounds/wan.mp3?1754269521298", id:"wan"},
+		{src:"sounds/dao.mp3?1754269521298", id:"dao"}
 	],
 	preloads: []
 };
